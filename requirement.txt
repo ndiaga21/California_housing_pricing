@@ -1,0 +1,8 @@
+Flask
+sklearn
+pandas
+numpy
+matplotlib
+catboost
+scikit-optimize
+xgboost
