@@ -13,5 +13,5 @@ conda create -p ProjectML python==3.9 -y
 ```
 Install library
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
