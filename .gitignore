@@ -76,8 +76,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-# pkl
-scaling.pkl
+
 
 # IPython
 profile_default/
