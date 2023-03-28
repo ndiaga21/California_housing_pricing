@@ -6,3 +6,5 @@ matplotlib
 catboost
 scikit-optimize
 xgboost
+gunicorn
+seaborn
